@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+h2{
+    margin-right: 120px;
+}
+
+input{
+    height: 24px;
+    font-size: 2rem;
+}
